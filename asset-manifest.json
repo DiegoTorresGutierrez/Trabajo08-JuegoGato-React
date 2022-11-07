@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Trabajo08-JuegoGato-React/static/css/main.66b57d3c.css",
+    "main.js": "/Trabajo08-JuegoGato-React/static/js/main.f7b2ff21.js",
+    "index.html": "/Trabajo08-JuegoGato-React/index.html",
+    "main.66b57d3c.css.map": "/Trabajo08-JuegoGato-React/static/css/main.66b57d3c.css.map",
+    "main.f7b2ff21.js.map": "/Trabajo08-JuegoGato-React/static/js/main.f7b2ff21.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.66b57d3c.css",
+    "static/js/main.f7b2ff21.js"
+  ]
+}
